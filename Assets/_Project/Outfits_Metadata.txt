@@ -1,0 +1,9 @@
+
+GREEN OUTFIT
+https://ipfs.moralis.io:2053/ipfs/QmU7dwee7tWy5mNNxzB4S5zg5CaxXtPheB7kpPe2CrmiTB/GreenOutfit_637952177746642864.json
+
+RED OUTFIT
+https://ipfs.moralis.io:2053/ipfs/QmU4PyAgawu15FEwBAnuwMzW8VKN8FcBPLoJTUuSrLroGQ/RedOutfit_637952178284608723.json
+
+YELLOW OUTFIT
+https://ipfs.moralis.io:2053/ipfs/QmUjcy9RDurZQmQ3D9pVRk68YtfVTtTYiLdeaPLr7mc2a7/YellowOutfit_637952314036943280.json

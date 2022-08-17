@@ -1,0 +1,36 @@
+//!! Remember that you need to have the LAST VERSION of NodeJS installed: https://nodejs.org/en/download/
+
+// 1. INSTALL HARDHAT
+
+    npm install --save-dev hardhat
+    npx hardhat
+
+// 2. INSTALL DEPENDENCIES
+
+    npm install --save-dev @nomicfoundation/hardhat-toolbox
+    npm install --save-dev @nomicfoundation/hardhat-chai-matchers
+
+    npm install --save-dev @openzeppelin/contracts
+
+    npm install --save-dev @nomiclabs/hardhat-etherscan
+    npm install --save-dev @cronos-labs/hardhat-cronoscan
+
+// 3. REPLACE HARDHAT PROJECT FILES WITH THE ONES IN UNITY UNDER "Assets/_SmartContracts/Hardhat"
+
+// 4. FILL KEYS IN "hardhat.config.js"
+
+    const PRIVATE_KEY = ""; // Fill with your browser MetaMask private key
+    const CRONOS_TESTNET_URL = "https://evm-t3.cronos.org/"; // This value is already valid :)
+    const CRONOSCAN_API_KEY = ""; // Create a cronoscan API key here: https://cronoscan.com/myapikey
+
+// 5. CLEAN AND COMPILE PROJECT
+
+    npx hardhat clean
+    npx hardhat compile
+
+// 6. RUN "scripts/deploy.js" TO DEPLOY SMART CONTRACTS
+
+    npx hardhat run scripts/deploy.js --network cronosTestnet
+
+************* CONTRACTS DEPLOYED AND VERIFIED *************
+
