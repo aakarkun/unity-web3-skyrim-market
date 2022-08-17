@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# unity-web3-skyrim-market
-Web3 SkyRim Market - Unity
-=======
 # 🎮 Web3 Skyrim Market 🎮
 
 In this week’s Moralis Project we’re basically marrying Web2 and Web3 Gaming. We're using PlayFab as a backend for the in-game currency and for displaying items in stores. Then we add the power of Web3 through Moralis to convert these Web2 items to the actual NFTs.
@@ -72,6 +68,3 @@ Give the creators some love ❤️
 ## Audio
 
 * [Black Wolf's Inn - Derek Fiechter](https://www.youtube.com/watch?v=LtDMBtjyq9A)
-
-
->>>>>>> 62fa6c5 (Initial commit)
